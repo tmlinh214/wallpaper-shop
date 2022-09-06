@@ -23,7 +23,7 @@ function Pic(props) {
     }
   return (
     <div className={`img-container ${props.className}`} onMouseEnter={handleHover} onMouseLeave={handleLeft}>
-        <img src={props.img.url} className="img-grid" alt="img"/>
+        <img src={process.env.PUBLIC_URL + props.img.url} className="img-grid" alt="img"/>
         {/* {isHovered && <FaCartPlus className='cart-plus-icon'/>}
         {isHovered && <FaHeart className='heart-icon' onClick={()=>toggleFavorite(props.img.id)}/>} */}
         {heartIcon()}
