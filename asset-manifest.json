@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/wallpaper-shop/static/css/main.bca49830.css",
-    "main.js": "/wallpaper-shop/static/js/main.b539f665.js",
+    "main.js": "/wallpaper-shop/static/js/main.8b7b42d6.js",
     "index.html": "/wallpaper-shop/index.html",
     "main.bca49830.css.map": "/wallpaper-shop/static/css/main.bca49830.css.map",
-    "main.b539f665.js.map": "/wallpaper-shop/static/js/main.b539f665.js.map"
+    "main.8b7b42d6.js.map": "/wallpaper-shop/static/js/main.8b7b42d6.js.map"
   },
   "entrypoints": [
     "static/css/main.bca49830.css",
-    "static/js/main.b539f665.js"
+    "static/js/main.8b7b42d6.js"
   ]
 }
