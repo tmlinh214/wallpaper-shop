@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.bca49830.css",
-    "main.js": "/react-gh-pages/static/js/main.fd9f44ce.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.bca49830.css.map": "/react-gh-pages/static/css/main.bca49830.css.map",
-    "main.fd9f44ce.js.map": "/react-gh-pages/static/js/main.fd9f44ce.js.map"
+    "main.css": "/wallpaper-shop/static/css/main.bca49830.css",
+    "main.js": "/wallpaper-shop/static/js/main.fd9f44ce.js",
+    "index.html": "/wallpaper-shop/index.html",
+    "main.bca49830.css.map": "/wallpaper-shop/static/css/main.bca49830.css.map",
+    "main.fd9f44ce.js.map": "/wallpaper-shop/static/js/main.fd9f44ce.js.map"
   },
   "entrypoints": [
     "static/css/main.bca49830.css",
